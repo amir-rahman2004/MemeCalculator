@@ -1,0 +1,6 @@
+{
+  "name": "Premium Calculator",
+  "description": "A premium-themed calculator web application with high-end glassmorphism styling, a calculation lock paywall, and mock subscription checkout flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
